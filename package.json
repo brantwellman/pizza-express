@@ -1,0 +1,34 @@
+{
+  "name": "pizza-express",
+  "version": "1.0.0",
+  "description": "Look at those pizzas",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brantwellman/pizza-express.git"
+  },
+  "keywords": [
+    "express",
+    "pizza",
+    "yum",
+    "casserole"
+  ],
+  "author": "Brant Wellman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brantwellman/pizza-express/issues"
+  },
+  "homepage": "https://github.com/brantwellman/pizza-express#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "jade": "^1.11.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "request": "^2.71.0"
+  }
+}
